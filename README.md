@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hey! Nice to see you. 👋
 
-<!--
-**adv555/adv555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-OlenaBoldysheva-1ca0f1?style=plastic&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/OlenaBoldysheva)](https://www.facebook.com/OlenaBoldysheva) 
+[![Linkedin Badge](https://img.shields.io/badge/-HelenBoldysheva-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helen-boldysheva)](https://www.linkedin.com/in/helen-boldysheva)
+[![Gmail Badge](https://img.shields.io/badge/-adv55577@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:adv55577@gmail.com)](mailto:adv55577@gmail.com)
 
-Here are some ideas to get you started:
+### ⚡ Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-E10098?style=plastic&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![React](https://img.shields.io/badge/-React-darkslategray?style=plastic&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-darkslategray?style=plastic&logo=redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js)
+![Parcel](https://img.shields.io/badge/-Parcel-black?style=plastic&logo=Parceljs)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic&logo=Webpack)
+![NPM](https://img.shields.io/badge/-NPM-firebrick?style=plastic&logo=npm)
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap) -->
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![FIGMA](https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- **:chart_with_upwards_trend: My GitHub Stats** -->
+
+
+<a href="https://github.com/adv555">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=adv555&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko" />
+</a>
+<a href="https://github.com/adv555">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adv555&langs_count=8&layout=compact" />
+</a>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adv555.76661298&left_color=darkslateblue&right_color=green) 
+
+
