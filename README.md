@@ -1,7 +1,7 @@
 # Hey! Nice to see you. 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-OlenaBoldysheva-1ca0f1?style=plastic&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/OlenaBoldysheva)](https://www.facebook.com/OlenaBoldysheva) 
-[![Linkedin Badge](https://img.shields.io/badge/-HelenBoldysheva-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helen-boldysheva)](https://www.linkedin.com/in/helen-boldysheva)
+[![Linkedin Badge](https://img.shields.io/badge/-OlenaBoldysheva-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helen-boldysheva)](https://www.linkedin.com/in/helen-boldysheva)
 [![Gmail Badge](https://img.shields.io/badge/-adv55577@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:adv55577@gmail.com)](mailto:adv55577@gmail.com)
 
 ### ⚡ Technologies
