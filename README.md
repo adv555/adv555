@@ -9,9 +9,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-E10098?style=plastic&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-darkslategray?style=plastic&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-darkslategray?style=plastic&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
 ![Parcel](https://img.shields.io/badge/-Parcel-black?style=plastic&logo=Parceljs)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic&logo=Webpack)
 ![NPM](https://img.shields.io/badge/-NPM-firebrick?style=plastic&logo=npm)
@@ -20,6 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![FIGMA](https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white)
 
 
 <!-- **:chart_with_upwards_trend: My GitHub Stats** -->
