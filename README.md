@@ -18,7 +18,6 @@
 ![Parcel](https://img.shields.io/badge/-Parcel-black?style=plastic&logo=Parceljs)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic&logo=Webpack)
 ![NPM](https://img.shields.io/badge/-NPM-firebrick?style=plastic&logo=npm)
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap) -->
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
@@ -27,7 +26,7 @@
 ![FIGMA](https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white)
-
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap) -->
 
 <!-- **:chart_with_upwards_trend: My GitHub Stats** -->
 
