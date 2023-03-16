@@ -15,6 +15,9 @@
 ![Redux](https://img.shields.io/badge/-Redux-darkslategray?style=plastic&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=plastic&logo=Node.js)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
+![FIGMA](https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white)
 ![Parcel](https://img.shields.io/badge/-Parcel-black?style=plastic&logo=Parceljs)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic&logo=Webpack)
 ![NPM](https://img.shields.io/badge/-NPM-firebrick?style=plastic&logo=npm)
@@ -23,10 +26,12 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
-![FIGMA](https://img.shields.io/badge/-Figma-black?style=plastic&logo=figma)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white)
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap) -->
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
+
 
 <!-- **:chart_with_upwards_trend: My GitHub Stats** -->
 
